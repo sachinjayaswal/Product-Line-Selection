@@ -25,10 +25,10 @@ Reference: Jayaswal, Sachin, and Sinha, Ankur. Bilevel Optimization: Application
 2. IBM CPLEX Concert Technology (C++)
 
 ## Quick instruction for execution
-1. Create a Visual C++ Project in Microsfot Visual Studio and link it with CPLEX OR Open and exisiting CPLEX C++ prject (for example, if using CPLEX 22.1.0.0, then open any existing project from \Program Files\IBM\ILOG\CPLEX_Studio221\cplex\examples\x64_windows_msvc14\stat_mdd)
-2. Add any one of the .cpp files (from Files in the Package listed above)
-3. Build Solution; this creates a .exe file with the same name as the name of the project
-4. Copy any of the data files (e.g., PLS_Data_10_5.txt) in the same folder where the .exe file is created
-5. Open the command prompt (by searching for "cmd" on windows search bar and clicking on "Command Prompt")
-6. Change the path on the command prompt to the location of the .exe file
-7. Run the .exe file by typing "xxx.exe <space> <name of the data file> <enter>. For example, if the name of the .exe file is PLS.exe, then type "PLS.exe PLS_Data_10_5.txt <enter> to solve the data instance given in PLS_Data_10_5.txt.
+1. Create a Visual C++ Project in Microsfot Visual Studio and link it with CPLEX OR Open and exisiting CPLEX C++ prject (for example, if using CPLEX 22.1.0.0, then open any existing project from \Program Files\IBM\ILOG\CPLEX_Studio221\cplex\examples\x64_windows_msvc14\stat_mdd).
+2. Add any one of the .cpp files (from Files in the Package listed above).
+3. Build Solution; this creates a .exe file with the same name as the name of the project.
+4. Copy any of the data files (e.g., PLS_Data_10_5.txt) in the same folder where the .exe file is created.
+5. Open the command prompt (by searching for "cmd" on windows search bar and clicking on "Command Prompt").
+6. Change the path on the command prompt to the location of the .exe file.
+7. Run the .exe file by typing "xxx.exe <space> <name of the data file> <enter>, where xxx represents the name of the exe file. For example, if the name of the .exe file is PLS.exe, then type "PLS.exe PLS_Data_10_5.txt <enter>" to solve the data instance given in PLS_Data_10_5.txt.
