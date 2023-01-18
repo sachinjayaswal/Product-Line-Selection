@@ -4,7 +4,7 @@ Alternate Mathematical Models for Product Line Selection
 Reference: Jayaswal, Sachin, and Sinha, Ankur. Bilevel Optimization: Applications, Models and Solution Approaches.
 
 ## Files in the package
-a. ### Codes
+### a. Codes
 1. PLS_Bilevel_KKT_SOS1.cpp: CPLEX C++ code for Single-level Reformulation of PLS Using KKT Conditions (and Complementary constraints modeled as SOS1 sets); refet to Section 3.1
 2. PLS_Bilevel_KKT_SOS1_Alt.cpp: CPLEX C++ code for Single-level Reformulation of PLS Using KKT Conditions (and Complementary constraints modeled as SOS1 sets) using additional dual variables for non-negativity constraints; refet to Section 3.1
 3. PLS_Bilevel_StrongDuality.cpp: CPLEX C++ code for Other Single-level Reformulation of PLS Using Duality-based Approach (and BigM constraints to linearize bilevel terms); refet to Section 3.2
@@ -14,7 +14,7 @@ a. ### Codes
 7. PLS_1Level_d.cpp: CPLEX C++ code for Other Single-level Reformulations of PLS using constraint set (56-d); refer to Section 3.3 and Other(d) in Table 3
 8. PLS_1Level_e.cpp: CPLEX C++ code for Other Single-level Reformulations of PLS using constraint set (56-e); refer to Section 3.3 and Other(a) in Table 3
 
-b. ### Data Files
+### b. Data Files
 1. PLS_Data_10_5.txt; refer to Section 3, Table 1
 2. PLS_Data_200_8.txt; additional data file not shown in the paper
 3. PLS_Data_500_25.txt; refer to Section 3, Table 3
