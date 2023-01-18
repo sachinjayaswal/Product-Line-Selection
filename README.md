@@ -13,6 +13,7 @@ Reference: Jayaswal, Sachin, and Sinha, Ankur. Bilevel Optimization: Application
 6. PLS_1Level_c.cpp: CPLEX C++ code for Other Single-level Reformulations of PLS using constraint set (56-c); refer to Section 3.3 and Other(c) in Table 3
 7. PLS_1Level_d.cpp: CPLEX C++ code for Other Single-level Reformulations of PLS using constraint set (56-d); refer to Section 3.3 and Other(d) in Table 3
 8. PLS_1Level_e.cpp: CPLEX C++ code for Other Single-level Reformulations of PLS using constraint set (56-e); refer to Section 3.3 and Other(a) in Table 3
+9. dataGeneration.ipynb: Python code for random instance generation of PLS
 
 ### b. Data Files
 1. PLS_Data_10_5.txt; refer to Section 3, Table 1
