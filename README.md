@@ -2,6 +2,7 @@
 Alternate Mathematical Models for Product Line Selection
 
 Reference: Jayaswal, Sachin, and Sinha, Ankur. Bilevel Optimization: Applications, Models and Solution Approaches.
+https://link.springer.com/book/9789819954902
 
 ## Files in the package
 ### a. Codes
